@@ -1,7 +1,11 @@
-# _Raganork-multi-device_
-## _Multi device whatsapp bot created with [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)_
+# _ERROR56-multi-device_
+## _Multi device whatsapp bot created with [@adiwajshing/baileys](https://github.com/adiwajshing/Bail
+
+<p align="center">
+<a href="https://github.com/zeus30007/Error57">
+    <img src="https://media.tenor.com/vasZ7QTaWScAAAAd/fox-yawn.gif">
+  </a>
   
-<div align="center">
    
 <a href="https://qr.raganork.tk/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
 
@@ -12,7 +16,7 @@
 
 ## Deploy to Heroku ↓
 
-<a href="https://github.com/sou6av/deploy-raganork/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https://github.com/zeus30007/ERROR56/fork" target="blank"><img align="center" src="https://telegra.ph/file/3c95155e7ea2936d2daac.jpg" alt="Deploy bot" height="112" width="310" /></a>
   <div>
 <br>
 <a href="https://raganork.tk/heroku-deploy" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a>
@@ -51,12 +55,6 @@
 
 Now the bot will start working
 ```
-
-<div align="center">
-
-## _[Koyeb: How to deploy](https://github.com/souravkl11/raganork-md/wiki/Deploying-with-Koyeb)_
-
-## _[Basic usage helper](https://github.com/souravkl11/raganork-md/wiki/Raganork-Documentation)_
 
 <div align="left">
 
